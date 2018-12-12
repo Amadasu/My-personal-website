@@ -1,0 +1,108 @@
+.AB{  
+	background-color: #b02247;
+	margin-top:-25px;
+	padding: 50px; 
+}
+.AB h2{
+	font-family: cursive;
+	font-size: 28px;
+	text-align: center;
+	color: white;
+}
+.AB p{
+	font-family: cursive;
+	font-size: 14px;
+	text-align: center;
+	color: white;
+}
+.about{
+	background-color: #b02247;
+	margin-top:-25px;
+	padding: 50px; 
+}
+
+.grace{
+	color: black;
+	padding-left: 50px;
+	width: 90%;
+	font-family: cursive;
+}
+h1{
+	font-size:40px;
+	margin-bottom: -10px;
+}
+	
+p{
+	position: relative;
+	font-size: 14px;
+	color: white;
+}
+.love{
+	margin-left: 80px;
+}
+.mama{
+	width: 30%;
+	display: inline-grid;
+	margin-top: 40px;
+
+}
+.boy{
+	display: inline-grid;
+	width: 600px;
+	height: 200px;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+.mama h4{
+	color: rgb(195, 25, 25);
+}
+.mama p{
+
+	margin-top: -10px;
+	margin-left: 50px;
+}
+/*.tok{
+	position: absolute;
+	width: 30%;
+	height: 30px;
+	margin-top: 5px;
+	margin-left: -50px;
+	padding: 20px;
+}
+*/
+footer{
+	background-color: blue;
+	margin-top: 10px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+.esohe{
+	background: #2980b9;
+	overflow: hidden;
+}
+.esohe a{
+	float: left;
+	display: block;
+	color: purple;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.esohe a:hover{
+	background-color: #F7B906;
+	color: black;
+}
+.esohe a.active {
+	background-color: #F7B906;
+	color: white;
+	}
+.esohe-image{
+	background-image: url(img/my backg.jpg);
+	height: 70%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+} 
